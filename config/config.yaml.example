@@ -1,0 +1,9 @@
+graph_api:
+  http_addr: ":8081"
+  secret_token: "verysecretkey"
+database:
+  host: "localhost"
+  port: 7687
+  user: "neo4j"
+  password: "password"
+  db_name: "postgres"
